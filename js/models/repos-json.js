@@ -1,46 +1,26 @@
 window.repos = [
     {
-        user: "GeneChatham",
-        repo: "mmm"
+        user: "kateshannon",
+        repo: "restaurants-project"
     },
     {
-        user: "LesleyMdCampo",
-        repo: "Point_B"
+        user: "scottyanderson",
+        repo: "restaurant-project"
     },
     {
-        user: "amhayslip",
-        repo: "goforit"
+        user: "beccanaul",
+        repo: "patakon_site"
     },
     {
-        user: "krytlewski",
-        repo: "remory"
+        user: "delasky",
+        repo: "restaurants-project"
     },
     {
-        user: "RollWave07",
-        repo: "CareWell"
+        user: "carenvaleria",
+        repo: "restaurant-project"
     },
     {
-        user: "caldwelljs",
-        repo: "makerpong"
-    },
-    {
-        user: "gpfeff",
-        repo: "FanFollow-2.0"
-    },
-    {
-        user: "erlaroche",
-        repo: "Home_Sit"
-    },
-    {
-        user: "qualquervalor",
-        repo: "we-share"
-    },
-    {
-        user: "bird-man-jr",
-        repo: "local_farm_roots"
-    },
-    {
-        user: "bensbigolbeard",
-        repo: "marsattracts"
+        user: "khannifin",
+        repo: "restaurant-project"
     }
 ];

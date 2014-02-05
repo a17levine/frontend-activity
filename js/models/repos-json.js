@@ -22,5 +22,9 @@ window.repos = [
     {
         user: "khannifin",
         repo: "restaurant-project"
+    },
+    {
+        user: "JessicaMeyer",
+        repo: "restaurant-project"
     }
 ];

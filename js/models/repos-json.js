@@ -26,5 +26,29 @@ window.repos = [
     {
         user: "JessicaMeyer",
         repo: "restaurant-project"
+    },
+    {
+        user: "JillChatham",
+        repo: "restaurant-project"
+    },
+    {
+        user: "johnewaterman",
+        repo: "restaurants-project"
+    },
+    {
+        user: "ccartertx",
+        repo: "restaurants-project"
+    },
+    {
+        user: "xeixas",
+        repo: "restaurant-project"
+    },
+    {
+        user: "sbcode",
+        repo: "restraurant-project"
+    },
+    {
+        user: "cvestrada",
+        repo: "restaurant-projects"
     }
 ];

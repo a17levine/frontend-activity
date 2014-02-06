@@ -54,5 +54,13 @@ window.repos = [
     {
         user: "caldwelljt",
         repo: "restaurants-project"
+    },
+    {
+        user: "dbdriscoll",
+        repo: "restaurant-project"
+    },
+    {
+        user: "trestray",
+        repo: "restaurants-project"
     }
 ];

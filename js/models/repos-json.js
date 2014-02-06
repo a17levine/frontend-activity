@@ -50,5 +50,9 @@ window.repos = [
     {
         user: "cvestrada",
         repo: "restaurant-projects"
+    },
+    {
+        user: "caldwelljt",
+        repo: "restaurants-project"
     }
 ];
